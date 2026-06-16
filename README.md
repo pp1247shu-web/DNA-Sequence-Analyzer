@@ -156,9 +156,9 @@ No external bioinformatics libraries are required — all core logic is implemen
 
 ## Author
 
-**[Your Name]**  
+**[Shubham Pradeep Pandey]**  
 BSc Biotechnology | Aspiring MSc Bioinformatics (Germany)  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub]: https://github.com/pp1247shu-web  [LinkedIn]: https://www.linkedin.com/in/shubham-pandey-8b544a313 
 
 ---
 
